@@ -10,6 +10,8 @@ Barkley is an open **behavioral intelligence research platform** developing long
 
 ### 📊 The result that makes the difference
 
+![Individual vs population reference — ROC AUC 0.988 vs 0.935, same detector, only the reference changes](assets/barkley-individual-vs-population.png)
+
 Same detector. Same data. Only the reference frame changes.
 
 | Metric | Individual baseline | Breed average |
