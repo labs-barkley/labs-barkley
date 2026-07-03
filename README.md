@@ -1,16 +1,47 @@
-# 👋 Welcome to Barkley AI
+# Barkley AI
 
-> **"A dog can remain statistically normal for its breed while becoming abnormal for itself."**
+> **Intelligence begins where averages end.**
 
-Barkley is an **ethology-driven research lab** building the next generation of canine behavioral intelligence. We move beyond population-level breed averages to focus on the only reference frame that truly matters: **the individual dog's longitudinal baseline.**
+Barkley is an open **behavioral intelligence research platform** developing longitudinal AI models built around **individual baselines** instead of population averages. We are an ethology-driven research lab working on one thesis:
+
+> *"A dog can remain statistically normal for its breed while becoming abnormal for itself."*
 
 ---
 
-### 🔬 The Barkley Thesis
+### 📊 The result that makes the difference
 
-Most companion-animal health platforms operate as **data warehouses**, not **intelligence layers**. They collect biometrics but cannot surface the subtle, slow-moving behavioral drift that signals when a dog is no longer behaving like itself.
+Same detector. Same data. Only the reference frame changes.
 
-Barkley closes the gap between raw sensor data and behavioral intelligence by engineering the **DogGraph** — a multi-modal, temporal framework that maps behavioral signals against individual history, environmental context, and metabolic state.
+| Metric | Individual baseline | Breed average |
+|---|---|---|
+| **AUC · decline detection** | **0.988** | 0.935 |
+| **Declines caught** | **100%** | 81% |
+| **Median lead time** | **~34 days earlier** | — |
+| **Reproducibility** | 30 seeds · synthetic · DOI-archived | |
+
+→ **Head-to-head Validation v2** — [`barkley-reference-architecture`](https://github.com/labs-barkley/barkley-reference-architecture) · DOI [10.5281/zenodo.20754351](https://doi.org/10.5281/zenodo.20754351)
+
+---
+
+### 📌 Pinned Work
+
+- ⚙️ **[barkley-reference-architecture](https://github.com/labs-barkley/barkley-reference-architecture)** — the open 8-layer stack for individual-referenced behavioral intelligence: individual baselines, temporal binning, CUSUM/BOCPD drift detection, Sovereignty of Silence, DogGraph event schema — plus the reproducible **head-to-head validation** (v0.2.0, DOI [10.5281/zenodo.20754351](https://doi.org/10.5281/zenodo.20754351)).
+- 🧪 **[barkley-canine-cognition-lab](https://github.com/labs-barkley/barkley-canine-cognition-lab)** — public research demonstrator. Individual baseline modeling, temporal drift detection, and the Missing Data Paradox, on synthetic data (DOI [10.5281/zenodo.20059956](https://doi.org/10.5281/zenodo.20059956)).
+- 🐕 **[Synthetic DogGraph Sample](https://huggingface.co/datasets/labs-barkley/synthetic-doggraph-sample)** — open longitudinal canine behavioral dataset on Hugging Face · CC BY-NC 4.0.
+- 🔎 **[Drift Explorer](https://drift-explorer.getbarkley.com/)** *(live)* — switch the reference frame and watch the same data change meaning.
+- 🕸 **[DogGraph Demo](https://barkley-doggraph.streamlit.app/)** *(live)* — schema-constrained GraphRAG over the behavioral memory layer, read-only Cypher.
+- 🌐 **[getbarkley.com](https://getbarkley.com)** — the research platform: thesis, evidence, benchmark, publications, waitlist.
+
+---
+
+### 📄 Publications
+
+- **The Reference-Class Trap in Animal-Computer Interaction: Toward Individual Longitudinal Baselines in Companion-Animal Behavioral Monitoring** — working paper, DOI [10.5281/zenodo.20756552](https://doi.org/10.5281/zenodo.20756552). Breed explains only ~9% of behavioral variation in dogs; each animal should be its own control.
+- **Precision Behavioral Intelligence Series (No. 01–08)** and **Metabolic Series (No. 01)** — 11 DOI-archived framework papers → [ORCID 0009-0004-6031-659X](https://orcid.org/0009-0004-6031-659X)
+- **Your Model Doesn't Have a Bias Problem. It Has a Reference Class Problem.** — featured analysis, [DataDrivenInvestor](https://datadriveninvestor.com/articles/your-model-doesn-t-have-a-bias-problem-it-has-a-reference-class-problem)
+- **The Normative Trap: Temporal Identity and the Failure of Population Intelligence** — founder's manifesto (book), DOI [10.5281/zenodo.20516821](https://doi.org/10.5281/zenodo.20516821) · [books2read.com/normative-trap](https://books2read.com/normative-trap)
+
+3 patent applications pending (INPI France · PCT international).
 
 ---
 
@@ -25,19 +56,12 @@ Barkley closes the gap between raw sensor data and behavioral intelligence by en
 
 ### 📚 Research & Ethics
 
-We've released the **Precision Behavioral Intelligence Series (No. 01–08)** and the **Metabolic Series (No. 01)**. Our framework is built on:
+Our framework is built on:
 
 - **Ethological rigor** — rooted in Tinbergen's Four Questions
 - **Algorithmic fairness** — a commitment to individual cognitive sovereignty over breed stereotypes
+- **Open science** — DOI-archived papers, open dataset, source-available reference architecture, canonical [glossary](https://getbarkley.com/llms.txt)
 - **Safe execution** — all public demonstrators use synthetic data to protect privacy and ensure research integrity
-
----
-
-### 📌 Pinned Work
-
-- 🧪 **[barkley-canine-cognition-lab](https://github.com/labs-barkley/barkley-canine-cognition-lab)** — public research demonstrator. Individual baseline modeling, temporal drift detection, and the Missing Data Paradox, on synthetic data.
-- 📄 **Framework papers** — the Behavioral Intelligence Series and Metabolic Series. Available on request.
-- 🌐 **[getbarkley.com](https://getbarkley.com)** — waitlist + research updates.
 
 ---
 
@@ -59,6 +83,7 @@ We are in a high-execution phase and looking to connect with:
 | ✉️ **Corresponding author** | [elodie@getbarkley.com](mailto:elodie@getbarkley.com) |
 | 🌐 **Web** | [getbarkley.com](https://getbarkley.com) |
 | 📑 **ORCID** | [0009-0004-6031-659X](https://orcid.org/0009-0004-6031-659X) |
+| 🐦 **X** | [@getbarkley](https://x.com/getbarkley) |
 
 ---
 
