@@ -92,10 +92,11 @@ ORCID [0009-0004-6031-659X](https://orcid.org/0009-0004-6031-659X)
 | | |
 |---|---|
 | **The lab** | [lab@barkleylabs.ai](mailto:lab@barkleylabs.ai) |
+| **Barkley AI — research & technical** | [labs@getbarkley.com](mailto:labs@getbarkley.com) |
 | **ACTA Music — evaluation & demo access** | [hello@actamusic.org](mailto:hello@actamusic.org) |
 | **IREP commons** | [commons@irepprotocol.org](mailto:commons@irepprotocol.org) |
 | **Investors & strategic** | [invest@getbarkley.com](mailto:invest@getbarkley.com) |
-| **Web** | [barkleylabs.ai](https://barkleylabs.ai) · [X @getbarkley](https://x.com/getbarkley) · [Hugging Face](https://huggingface.co/labs-barkley) |
+| **Web** | [barkleylabs.ai](https://barkleylabs.ai) · [Hugging Face](https://huggingface.co/labs-barkley) |
 
 ---
 
