@@ -30,6 +30,8 @@ This benchmark tests the architecture **in the behavioral domain only**, on synt
 
 [**The Crossing Point**](https://github.com/labs-barkley/irep-crossing-point) · DOI [10.5281/zenodo.22125148](https://doi.org/10.5281/zenodo.22125148) — Stage 0.5 of the IREP validation plan measures where an individual's own record overtakes their reference class, out of sample, on 69 seasons of the Lahman Baseball Database: 1.89 prior seasons for a slow composite metric (95% CI [1.71, 2.15]), below one season for a stable skill. Pilot, hypothesis-generating, with its conditions attached; a different task (prediction, real data) from the benchmark above (detection, synthetic). ACTA Music carries its own evidence, listed below.
 
+![Where the record overtakes the category — crossing point at 1.89 seasons for OPS, below one season for strikeout rate; pilot, upper bound, floor-conditional](assets/irep-crossing-point.png)
+
 ---
 
 ## Three systems. One architectural decision.
