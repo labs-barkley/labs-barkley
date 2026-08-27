@@ -11,7 +11,7 @@ Most systems begin with the population and infer the individual. Barkley Labs bu
 
 ---
 
-## The thesis, tested in one domain
+## The thesis, tested in two domains
 
 ![Individual vs population reference — ROC AUC 0.988 vs 0.935, same detector, only the reference changes](assets/barkley-individual-vs-population.png)
 
@@ -26,7 +26,9 @@ Same detector. Same synthetic data. Only the reference frame changes.
 
 Head-to-head validation v2.0 — [`barkley-reference-architecture`](https://github.com/labs-barkley/barkley-reference-architecture) · DOI [10.5281/zenodo.20754351](https://doi.org/10.5281/zenodo.20754351)
 
-This benchmark tests the architecture **in the behavioral domain only**. IREP and ACTA Music carry their own evidence, listed below.
+This benchmark tests the architecture **in the behavioral domain only**, on synthetic data. Since August 2026 the premise also has a **real-data** measurement, in a second domain:
+
+[**The Crossing Point**](https://github.com/labs-barkley/irep-crossing-point) · DOI [10.5281/zenodo.22125148](https://doi.org/10.5281/zenodo.22125148) — Stage 0.5 of the IREP validation plan measures where an individual's own record overtakes their reference class, out of sample, on 69 seasons of the Lahman Baseball Database: 1.89 prior seasons for a slow composite metric (95% CI [1.71, 2.15]), below one season for a stable skill. Pilot, hypothesis-generating, with its conditions attached; a different task (prediction, real data) from the benchmark above (detection, synthetic). ACTA Music carries its own evidence, listed below.
 
 ---
 
@@ -35,7 +37,7 @@ This benchmark tests the architecture **in the behavioral domain only**. IREP an
 | System | Domain | The question it answers | Status |
 |---|---|---|---|
 | **Barkley AI™** · [getbarkley.com](https://getbarkley.com) | Behavioral intelligence | *Is this individual still itself?* | Research platform · reproducible benchmark · live demonstrators |
-| **IREP Protocol** · [irepprotocol.org](https://irepprotocol.org) | Evaluation & fairness | *Are we evaluating the individual, or their category?* | v0.1 open for public comment · specification CC BY 4.0 · a commons, free forever |
+| **IREP Protocol** · [irepprotocol.org](https://irepprotocol.org) | Evaluation & fairness | *Are we evaluating the individual, or their category?* | v0.1 open for public comment · premise measured on real data ([Stage 0.5 pilot](https://github.com/labs-barkley/irep-crossing-point)) · specification CC BY 4.0 · a commons, free forever |
 | **ACTA Music™** · [actamusic.org](https://actamusic.org) | Creative provenance | *Can authorship be evidenced before the final output exists?* | Working paper public · specification and reference implementation in private pre-release |
 
 **The method — the same four steps, in the same order:**
