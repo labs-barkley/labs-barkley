@@ -68,13 +68,13 @@ Inference is useful. Evidence comes first.
 
 ## Research
 
-[![Brief 01](https://zenodo.org/badge/DOI/10.5281/zenodo.22539107.svg)](https://doi.org/10.5281/zenodo.22539107)
-[![Brief 02](https://zenodo.org/badge/DOI/10.5281/zenodo.22643005.svg)](https://doi.org/10.5281/zenodo.22643005)
-[![Brief 03](https://zenodo.org/badge/DOI/10.5281/zenodo.22666343.svg)](https://doi.org/10.5281/zenodo.22666343)
+[![Brief 01](https://zenodo.org/badge/DOI/10.5281/zenodo.22539106.svg)](https://doi.org/10.5281/zenodo.22539106)
+[![Brief 02](https://zenodo.org/badge/DOI/10.5281/zenodo.22643004.svg)](https://doi.org/10.5281/zenodo.22643004)
+[![Brief 03](https://zenodo.org/badge/DOI/10.5281/zenodo.22666342.svg)](https://doi.org/10.5281/zenodo.22666342)
 
-- **ACTA Brief 03 — The Arranger’s Share** — a rights society’s rulebook already defines the arranger, prices the contribution and adjudicates the threshold; the generative portion has no remuneration path. With David Hachour, ColorSound Studio. English and French in the same record, open access, CC BY 4.0. DOI [10.5281/zenodo.22666343](https://doi.org/10.5281/zenodo.22666343)
-- **ACTA Brief 02 — The False Positive, Measured** — when detection decides who gets paid, the detector’s error rate is a line in the royalty budget. Open access, CC BY 4.0. DOI [10.5281/zenodo.22643005](https://doi.org/10.5281/zenodo.22643005)
-- **ACTA Brief 01 — The Evidence Gap** — when AI classification determines royalties, visibility and eligibility, what evidence does an artist have? Open access, CC BY 4.0. DOI [10.5281/zenodo.22539107](https://doi.org/10.5281/zenodo.22539107)
+- **ACTA Brief 03 — The Arranger’s Share** — a rights society’s rulebook already defines the arranger, prices the contribution and adjudicates the threshold; the generative portion has no remuneration path. With David Hachour, ColorSound Studio. English and French in the same record, open access, CC BY 4.0. DOI [10.5281/zenodo.22666342](https://doi.org/10.5281/zenodo.22666342)
+- **ACTA Brief 02 — The False Positive, Measured** — when detection decides who gets paid, the detector’s error rate is a line in the royalty budget. Open access, CC BY 4.0. DOI [10.5281/zenodo.22643004](https://doi.org/10.5281/zenodo.22643004)
+- **ACTA Brief 01 — The Evidence Gap** — when AI classification determines royalties, visibility and eligibility, what evidence does an artist have? Open access, CC BY 4.0. DOI [10.5281/zenodo.22539106](https://doi.org/10.5281/zenodo.22539106)
 - **ACTA (Attestation of Creative Trajectory and Authorship): an individual-referential, artist-held provenance protocol for music composition** — working paper WP-ACTA-01, restricted pre-release. DOI [10.5281/zenodo.21230054](https://doi.org/10.5281/zenodo.21230054)
 - **The Individual-Referential Evaluation Protocol (IREP): An Open Standard for Category-Blind, Trajectory-Rich Assessment in Hiring and Admission** — working paper, CC BY 4.0. DOI [10.5281/zenodo.21211589](https://doi.org/10.5281/zenodo.21211589)
 - **The Reference-Class Trap in Animal-Computer Interaction: Toward Individual Longitudinal Baselines in Companion-Animal Behavioral Monitoring** — working paper. Breed explains only ~9% of behavioral variation; each animal should be its own control. DOI [10.5281/zenodo.20756552](https://doi.org/10.5281/zenodo.20756552)
