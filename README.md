@@ -113,7 +113,7 @@ ORCID [0009-0004-6031-659X](https://orcid.org/0009-0004-6031-659X)
 
 ## IP & legal
 
-**Patent applications filed — patent pending.** Barkley AI™: **FR2605477** · **FR2605026**. ACTA Music™: **FR2609502** · **FR2609280** — disclosure and exploitation authorized by the INPI; filed to keep ACTA's mechanisms from enclosure.
+**Patent applications filed — patent pending.** Barkley AI™: **FR2605477** · **FR2605026**. ACTA Music™: **FR2609502** · **FR2609280** (disclosure and exploitation authorized by the INPI) · **FR2612756** · **FR2613458** (patent pending); filed to keep ACTA's mechanisms from enclosure.
 
 **Trademarks.** Barkley AI™ and ACTA Music™ are filed trademarks. The IREP Protocol is open and published by Barkley Labs.
 
